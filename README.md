@@ -1,0 +1,2 @@
+# config
+Godin configuration management
